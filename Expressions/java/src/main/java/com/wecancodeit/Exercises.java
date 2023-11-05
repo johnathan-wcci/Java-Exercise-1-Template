@@ -1,7 +1,5 @@
 package com.wecancodeit;
 
-import java.util.Arrays;
-
 public class Exercises {
 
     /* Question 1
@@ -15,7 +13,7 @@ public class Exercises {
     redTicket(0, 0, 0) → 5
     */  
     public int redTicket(int a, int b, int c) {
-
+       
     }
 
     /* Question 2
@@ -42,7 +40,7 @@ public class Exercises {
     hasTeen(20, 10, 13) → true
     */
     public boolean hasTeen(int a, int b, int c) {
-        
+       
     }
 
     /* Question 4
@@ -54,7 +52,7 @@ public class Exercises {
     posNeg(-4, -5, true) → true
     */
     public boolean posNeg(int a, int b, boolean negative) {
-        
+     
     }
 
 
@@ -67,7 +65,7 @@ public class Exercises {
     icyHot(2, 120) → false
     */
     public boolean icyHot(int temp1, int temp2) {
-        
+      
     }
 
     /* Question 6
@@ -80,7 +78,7 @@ public class Exercises {
     diff21(-10) → 31
     */
     public int diff21(int n) {
-
+  
     }
 
     /* Question 7
@@ -94,7 +92,7 @@ public class Exercises {
     alarmClock(0, false) → "10:00"
     */
     public String alarmClock(int day, boolean vacation) {
-
+      
     }
 
     /* Question 8
@@ -106,7 +104,7 @@ public class Exercises {
     nearTen(19) → true
     */
     public boolean nearTen(int num) {
-        
+     
     }
 
     /* Question 9
@@ -143,7 +141,7 @@ public class Exercises {
     parrotTrouble(false, 6) → false
     */
     public boolean parrotTrouble(boolean talking, int hour) {
-       
+   
     }
 
     /* Question 12
@@ -154,7 +152,7 @@ public class Exercises {
     makes10(1, 9) → true
     */
     public boolean makes10(int a, int b) {
-        
+      
     }
 
     /* Question 13
@@ -165,7 +163,7 @@ public class Exercises {
     makeAbba("What", "Up") → "WhatUpUpWhat"
     */
     public String makeAbba(String a, String b) {
-        
+      
     }
 
 }
